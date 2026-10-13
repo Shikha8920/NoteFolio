@@ -81,7 +81,7 @@ notefolio/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/notefolio.git
+git clone https://github.com/Shikha8920/NoteFolio
 cd notefolio
 ```
 
